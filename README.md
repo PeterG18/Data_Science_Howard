@@ -1,4 +1,5 @@
-# Data_Science_Howard
+# Howard Data Science Portfolio
+### Various Projects and Assignments also included in Github
 
 ## Peter Gansallo  
 #### Class of 2025 Master's in Applied Data Science at Howard University
@@ -19,6 +20,7 @@ Capstone Slide Presentation
 [Presentation Slide](https://docs.google.com/presentation/d/1xgvdPhUJj6iFV2txR3w2mhQjEKFSFzXXl_nXr0OFvgA/edit?usp=sharing)
 
 ---
+# Capstone Overview
 
 ## **Predicting Depression Risk in College Students Using Machine Learning**
 
