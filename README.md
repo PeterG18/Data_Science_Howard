@@ -11,7 +11,7 @@ Here’s the code to my final project, where I cleaned data, analyzed it, and us
 [Code](https://github.com/PeterG18/Data_Science_Howard/tree/4cb74c340c996ab53d5ed49f2b0331534b19999b/Final_Project_Code)
 
 Here’s my final report  
-[Final Report]()
+[Final Report](https://github.com/PeterG18/Data_Science_Howard/blob/a65b821aa85968dfad6daad9e5f7e4c878598494/Final_Project_Code/Peter%20Gansallo%20Final%20Report.pdf)
 
 Here’s my Storyboard  
 [Tableau Visualization](https://public.tableau.com/views/Story_Draft_revised_51/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
