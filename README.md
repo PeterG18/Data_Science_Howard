@@ -8,7 +8,7 @@ View my Resume here
 [Resume](https://peterg18.github.io/Peter_Gansallo_Resume/)
 
 Here’s the code to my final project, where I cleaned data, analyzed it, and used machine learning to predict students at high risk of depression with **76% accuracy**  
-[Code](https://github.com/PeterG18/Data_Science_Howard/tree/4cb74c340c996ab53d5ed49f2b0331534b19999b/Final_Project_Code)
+[Code](https://github.com/PeterG18/Data_Science_Howard/tree/ab53ab1fc86283462746cb3da68db9b185d6e449/Final_Project_Code)
 
 Here’s my final report  
 [Final Report](https://github.com/PeterG18/Data_Science_Howard/blob/a65b821aa85968dfad6daad9e5f7e4c878598494/Final_Project_Code/Peter%20Gansallo%20Final%20Report.pdf)
